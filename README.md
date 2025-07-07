@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>front‑end engineer • creative coder • neon addict</strong>
+  <strong>Full-stack dev • creative coder • neon addict</strong>
 </p>
 
 <!-- ═════════════════════  NEON DIVIDER  ═════════════════════ -->
