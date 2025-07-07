@@ -5,7 +5,7 @@
 
 <!-- Neon divider -->
 <p align="center">
-  <img src="https://svgshare.com/i/13kA.svg" alt="Neon Divider" width="80%" />
+  <img src="https://i.pinimg.com/originals/75/bd/00/75bd00b23a32f8020bf8c4f9a47ed0ad.gif" alt="Neon Divider" width="80%" />
 </p>
 
 <h1 align="center">
