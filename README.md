@@ -1,6 +1,6 @@
 <!-- ════════════════════════  TOP WAVE  ════════════════════════ -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/25d4a04c005210dda5b4e0246618ffaa/f11ec5bea4363265-7d/s400x600/3cfad24f72c8e71f8aec7eb9ea4cd289652d67bb.gifv"/>
+  <img src="https://64.media.tumblr.com/25d4a04c005210dda5b4e0246618ffaa/f11ec5bea4363265-7d/s400x600/3cfad24f72c8e71f8aec7eb9ea4cd289652d67bb.gifv" alt="Animated Banner" width="1200"/>
 </p>
 
 <!-- ══════════════════════════  HERO  ══════════════════════════ -->
