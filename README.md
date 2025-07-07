@@ -1,11 +1,11 @@
 <!-- Large animated banner centered -->
 <p align="center">
-  <img src="https://imgur.com/a/Cj4YIjt" style="border-radius: 12px; box-shadow: 0 4px 24px #00000088;"/>
+  <img src="https://imgur.com/a/Cj4YIjt" alt="Animated Banner" width="900"/>
 </p>
 
 <!-- Neon divider -->
 <p align="center">
-  <img src="https://svgshare.com/i/13kA.svg" alt="Neon Divider" width="80%" />
+  <img src="https://64.media.tumblr.com/45837fce7b001cfc5ba0957895cefb88/f11ec5bea4363265-c8/s540x810/af42b33b3ac7c96ff17cc6ac07adf592c477e312.pnj" alt="Neon Divider" width="80%" />
 </p>
 
 <h1 align="center">
@@ -20,7 +20,7 @@
 
 <!-- Neon divider -->
 <p align="center">
-  <img src="https://svgshare.com/i/13kA.svg" alt="Neon Divider" width="80%" />
+  <img src="https://64.media.tumblr.com/45837fce7b001cfc5ba0957895cefb88/f11ec5bea4363265-c8/s540x810/af42b33b3ac7c96ff17cc6ac07adf592c477e312.pnj" alt="Neon Divider" width="80%" />
 </p>
 
 ## 🖤 About Me
@@ -32,7 +32,7 @@
 
 <!-- Neon divider -->
 <p align="center">
-  <img src="https://svgshare.com/i/13kA.svg" alt="Neon Divider" width="80%" />
+  <img src="https://64.media.tumblr.com/45837fce7b001cfc5ba0957895cefb88/f11ec5bea4363265-c8/s540x810/af42b33b3ac7c96ff17cc6ac07adf592c477e312.pnj" alt="Neon Divider" width="80%" />
 </p>
 
 ## ⚡ Technologies
@@ -43,7 +43,7 @@
 
 <!-- Neon divider -->
 <p align="center">
-  <img src="https://svgshare.com/i/13kA.svg" alt="Neon Divider" width="80%" />
+  <img src="https://64.media.tumblr.com/45837fce7b001cfc5ba0957895cefb88/f11ec5bea4363265-c8/s540x810/af42b33b3ac7c96ff17cc6ac07adf592c477e312.pnj" alt="Neon Divider" width="80%" />
 </p>
 
 ## 📫 Contact
@@ -59,7 +59,7 @@
 
 <!-- Neon divider -->
 <p align="center">
-  <img src="https://svgshare.com/i/13kA.svg" alt="Neon Divider" width="80%" />
+  <img src="https://64.media.tumblr.com/45837fce7b001cfc5ba0957895cefb88/f11ec5bea4363265-c8/s540x810/af42b33b3ac7c96ff17cc6ac07adf592c477e312.pnj" alt="Neon Divider" width="80%" />
 </p>
 
 <p align="center">
