@@ -35,7 +35,7 @@
   <img src="https://64.media.tumblr.com/45837fce7b001cfc5ba0957895cefb88/f11ec5bea4363265-c8/s540x810/af42b33b3ac7c96ff17cc6ac07adf592c477e312.pnj" alt="Neon Divider" width="80%" />
 </p>
 
-## ⚡ Technologies
+Technologies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,git,github" />
