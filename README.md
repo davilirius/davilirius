@@ -1,6 +1,6 @@
 <!-- Large animated banner centered -->
 <p align="center">
-  <img src="URL_TO_YOUR_GIF_HERE" alt="Animated Banner" width="900" style="border-radius: 12px; box-shadow: 0 4px 24px #00000088;"/>
+  <img src="https://cdnb.artstation.com/p/assets/images/images/015/629/275/original/alexandra-vezhnovets-neon-room.gif?1549025062" alt="Animated Banner" width="900" style="border-radius: 12px; box-shadow: 0 4px 24px #00000088;"/>
 </p>
 
 <!-- Neon divider -->
