@@ -1,6 +1,6 @@
 <!-- Banner animado centralizado e maior -->
 <p align="center">
-  <img src="(https://i.pinimg.com/originals/f5/88/f2/f588f2cb596083e0d8e6c5f0c86319bd.gif)" alt="Banner animado" width="900" style="border-radius: 12px; box-shadow: 0 4px 24px #00000088;"/>
+  <img src="https://i.pinimg.com/originals/f5/88/f2/f588f2cb596083e0d8e6c5f0c86319bd.gif" alt="Banner animado" width="900" style="border-radius: 12px; box-shadow: 0 4px 24px #00000088;"/>
 </p>
 
 <h1 align="center">
