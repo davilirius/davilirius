@@ -5,7 +5,7 @@
 
 <!-- ═══════════════════════════  HERO  ═══════════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=800&size=48&duration=3500&pause=600&color=00FFFF&center=true&vCenter=true&width=1000&height=85&lines=DAVI+LIMA;digital+chaos+in+blue+%26+purple" alt="typing-header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=800&size=48&duration=3500&pause=600&color=00FFFF&center=true&vCenter=true&width=1000&height=85&lines=davilirius;digital+chaos+in+blue+%26+purple" alt="typing-header"/>
 </p>
 
 <p align="center">
