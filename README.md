@@ -1,6 +1,6 @@
 <!-- Banner animado ao lado do perfil -->
 <p align="center">
-  <img src="https://ar.pinterest.com/pin/973973856893264112/" alt="Banner animado" width="400"/>
+  <img src="https://i.pinimg.com/originals/1a/9a/20/1a9a20cc06e7084d35a34f89ce756ad6.gif" alt="Banner animado" width="400"/>
 </p>
 
 <h1 align="center" style="color:black;">Olá, eu sou [Seu Nome] 👋</h1>
