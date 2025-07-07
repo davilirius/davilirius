@@ -1,6 +1,6 @@
 <!-- Large animated banner centered -->
 <p align="center">
-  <img src="https://images.steamusercontent.com/ugc/1732171141379858641/328DD512A2BB5F9ABF34677DD4C564F501205801/" width="900" style="border-radius: 12px; box-shadow: 0 4px 24px #00000088;"/>
+  <img src="https://i.pinimg.com/originals/75/bd/00/75bd00b23a32f8020bf8c4f9a47ed0ad.gif" width="900" style="border-radius: 12px; box-shadow: 0 4px 24px #00000088;"/>
 </p>
 
 <!-- Neon divider -->
