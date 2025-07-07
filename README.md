@@ -5,7 +5,7 @@
 
 <!-- Neon divider -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/8307bace0674b76d4635908bc400f8ec/f11ec5bea4363265-a9/s540x810/59cda334b0743900b9fff66aba56b0a4d8147a47.pnj" alt="Neon Divider" width="80%" />
+  <img src="https://svgshare.com/i/13kA.svg" alt="Neon Divider" width="80%" />
 </p>
 
 <h1 align="center">
@@ -20,7 +20,7 @@
 
 <!-- Neon divider -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/8307bace0674b76d4635908bc400f8ec/f11ec5bea4363265-a9/s540x810/59cda334b0743900b9fff66aba56b0a4d8147a47.pnj" alt="Neon Divider" width="80%" />
+  <img src="https://svgshare.com/i/13kA.svg" alt="Neon Divider" width="80%" />
 </p>
 
 ## 🖤 About Me
@@ -32,7 +32,7 @@
 
 <!-- Neon divider -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/8307bace0674b76d4635908bc400f8ec/f11ec5bea4363265-a9/s540x810/59cda334b0743900b9fff66aba56b0a4d8147a47.pnj" alt="Neon Divider" width="80%" />
+  <img src="https://svgshare.com/i/13kA.svg" alt="Neon Divider" width="80%" />
 </p>
 
 ## ⚡ Technologies
@@ -43,7 +43,7 @@
 
 <!-- Neon divider -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/8307bace0674b76d4635908bc400f8ec/f11ec5bea4363265-a9/s540x810/59cda334b0743900b9fff66aba56b0a4d8147a47.pnj" alt="Neon Divider" width="80%" />
+  <img src="https://svgshare.com/i/13kA.svg" alt="Neon Divider" width="80%" />
 </p>
 
 ## 📫 Contact
@@ -59,7 +59,7 @@
 
 <!-- Neon divider -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/8307bace0674b76d4635908bc400f8ec/f11ec5bea4363265-a9/s540x810/59cda334b0743900b9fff66aba56b0a4d8147a47.pnj" alt="Neon Divider" width="80%" />
+  <img src="https://svgshare.com/i/13kA.svg" alt="Neon Divider" width="80%" />
 </p>
 
 <p align="center">
