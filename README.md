@@ -1,67 +1,93 @@
-<!-- Large animated banner centered -->
+<!-- =========  HERO BANNER  ========= -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/ca0393df9592ca979d58125e23b555a9/b9ac261a9ce95c53-f6/s640x960/19d2e65c27ef22a4162f79c14d6400dedd501343.gif" alt="Animated Banner" width="600"/>
+  <!-- Banner estático ou GIF de Jinx em neon. Prefira links diretos (.gif/.png) -->
+  <img src="https://i.imgur.com/U4iWsUy.gif" width="900" alt="Neon Jinx Banner"/>
 </p>
 
-<!-- Neon divider -->
+<!-- =========  DIVISOR ANIMADO  ========= -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/45837fce7b001cfc5ba0957895cefb88/f11ec5bea4363265-c8/s540x810/af42b33b3ac7c96ff17cc6ac07adf592c477e312.pnj" alt="Neon Divider" width="80%" />
+  <img src="https://i.imgur.com/MqOZqXG.gif" width="75%" alt="Neon Divider"/>
 </p>
 
 <h1 align="center">
-  <b>Hello, I'm Davi 👋</b>
+  <b>Hey-o, I’m <span style="color:#00FFFF">SEU_NOME</span> 💥</b>
 </h1>
 
 <p align="center">
-  <b>
-    Welcome to my GitHub profile!
-  </b>
+  <em>Breaking code, not the rules. <br/> 
+  Pixel-perfect UIs & chaos-driven creativity.</em>
 </p>
 
-<!-- Neon divider -->
+<!-- =========  MINI BUTTONS  ========= -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/45837fce7b001cfc5ba0957895cefb88/f11ec5bea4363265-c8/s540x810/af42b33b3ac7c96ff17cc6ac07adf592c477e312.pnj" alt="Neon Divider" width="80%" />
+  <a href="https://linkedin.com/in/SEUUSERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/>
+  </a>
+  <a href="mailto:SEUEMAIL" target="_blank">
+    <img src="https://img.shields.io/badge/e-mail-0d1117?style=for-the-badge&logo=gmail&logoColor=00FFFF"/>
+  </a>
+  <a href="https://seuportfolio.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=About.me&logoColor=A259FF"/>
+  </a>
 </p>
 
-## 🖤 About Me
-
-- 🖥️ Developer passionate about technology and innovation  
-- 🎨 Minimalist, focused on elegant and functional design  
-- 🚀 Always learning and sharing knowledge  
-- 🤝 Open to collaborations and open source projects  
-
-<!-- Neon divider -->
+<!-- =========  DIVISOR  ========= -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/45837fce7b001cfc5ba0957895cefb88/f11ec5bea4363265-c8/s540x810/af42b33b3ac7c96ff17cc6ac07adf592c477e312.pnj" alt="Neon Divider" width="80%" />
+  <img src="https://i.imgur.com/MqOZqXG.gif" width="75%" alt="Neon Divider"/>
 </p>
 
-## ⚡ Technologies
+## 💠 About Me
+- 🎮  Front-end wizard by day, **Piltover troublemaker** by night  
+- ✨  Lover of vibrant palettes, glitch art & seamless UX  
+- 🚀  Currently exploring **React Native + Expo** for cross-platform mischief  
+- 🤝  Open to collabs on open-source or indie game UI projects  
 
+## 🔮 Tech Arsenal
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,git,github" />
+
+<!-- CORE -->
+<img src="https://img.shields.io/badge/TypeScript-4c45d6?style=flat&logo=typescript&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/React-5b3cc4?style=flat&logo=react&logoColor=61dafb"/>
+<img src="https://img.shields.io/badge/Next.js-3e2a81?style=flat&logo=next.js&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Tailwind-2e2066?style=flat&logo=tailwindcss&logoColor=38bdf8"/>
+
+<!-- MOBILE -->
+<img src="https://img.shields.io/badge/Expo-3e2a81?style=flat&logo=expo&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/React&nbsp;Native-4c45d6?style=flat&logo=react&logoColor=61dafb"/>
+
+<!-- BACKEND / DB -->
+<img src="https://img.shields.io/badge/Node.js-5b3cc4?style=flat&logo=node.js&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Prisma-2e2066?style=flat&logo=prisma&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/PostgreSQL-3e2a81?style=flat&logo=postgresql&logoColor=ffffff"/>
+
+<!-- UTILIDADES -->
+<img src="https://img.shields.io/badge/Docker-4c45d6?style=flat&logo=docker&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GitHub&nbsp;Actions-5b3cc4?style=flat&logo=githubactions&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Storybook-2e2066?style=flat&logo=storybook&logoColor=ff4785"/>
+
 </div>
 
-<!-- Neon divider -->
+<!-- =========  DIVISOR  ========= -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/45837fce7b001cfc5ba0957895cefb88/f11ec5bea4363265-c8/s540x810/af42b33b3ac7c96ff17cc6ac07adf592c477e312.pnj" alt="Neon Divider" width="80%" />
+  <img src="https://i.imgur.com/MqOZqXG.gif" width="75%" alt="Neon Divider"/>
 </p>
 
-## 📫 Contact
-
+## 📊 GitHub Stats
 <div align="center">
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/>
-  </a>
-  <a href="mailto:youremail@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=00FFFF"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=react&hide_border=true&title_color=00FFFF&icon_color=A259FF" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEUUSERNAME&theme=react&hide_border=true&ring=00FFFF&fire=A259FF&currStreakNum=00FFFF" width="48%"/>
 </div>
 
-<!-- Neon divider -->
+<!-- OPTIONAL LANGS CARD -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/45837fce7b001cfc5ba0957895cefb88/f11ec5bea4363265-c8/s540x810/af42b33b3ac7c96ff17cc6ac07adf592c477e312.pnj" alt="Neon Divider" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=react&hide_border=true&title_color=00FFFF" width="45%"/>
+</p>
+
+<!-- =========  DIVISOR  ========= -->
+<p align="center">
+  <img src="https://i.imgur.com/MqOZqXG.gif" width="75%" alt="Neon Divider"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+profile!;Feel+free+to+connect+with+me." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&repeat=false&width=700&lines=Thanks+for+stopping+by+%F0%9F%92%A5;Let%E2%80%99s+build+something+chaotic+and+beautiful!" alt="Typing SVG"/>
 </p>
