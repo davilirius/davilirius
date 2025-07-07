@@ -160,5 +160,5 @@
 
 <!-- ═══════════════════════  BOTTOM WAVE  ═══════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=a259ff,00ffff&section=footer"/>
+  <img src="https://64.media.tumblr.com/55dc19ea797a5ca5f2195c4c2ce0272e/f11ec5bea4363265-d1/s540x810/2ca6f0c1ee3305786b9755079ee3ac153b513d45.pnj"/>
 </p>
