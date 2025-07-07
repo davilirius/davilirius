@@ -1,39 +1,54 @@
-<!-- Banner animado ao lado do perfil -->
+<!-- Banner animado centralizado e maior -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1a/9a/20/1a9a20cc06e7084d35a34f89ce756ad6.gif" alt="Banner animado" width="400"/>
+  <img src="URL_DO_SEU_GIF_AQUI" alt="Banner animado" width="900" style="border-radius: 12px; box-shadow: 0 4px 24px #00000088;"/>
 </p>
 
-<h1 align="center" style="color:black;">Olá, eu sou [Seu Nome] 👋</h1>
+<h1 align="center">
+  <span>
+    <b>Olá, eu sou [Seu Nome] 👋</b>
+  </span>
+</h1>
 
 <p align="center">
-  <b>Bem-vindo ao meu perfil do GitHub!</b>
+  <b>
+    <span>
+      Bem-vindo ao meu perfil do GitHub!
+    </span>
+  </b>
 </p>
 
 ---
 
 ## 🖤 Sobre mim
 
-- 💻 Desenvolvedor apaixonado por tecnologia
-- 🎨 Gosto de criar projetos com design minimalista e elegante
-- 🚀 Sempre aprendendo coisas novas
+- 🖥️ Desenvolvedor apaixonado por tecnologia e inovação  
+- 🎨 Minimalista, focado em design elegante e funcional  
+- 🚀 Sempre aprendendo e compartilhando conhecimento  
+- 🤝 Aberto a colaborações e projetos open source  
 
 ---
 
 ## ⚡ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,git,github" />
 </div>
 
 ---
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seuusuario)
-- [Email](mailto:seuemail@exemplo.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@exemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Obrigado+por+visitar+meu+perfil!;Sinta-se+livre+para+conectar-se+comigo." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Obrigado+por+visitar+meu+perfil!;Sinta-se+livre+para+conectar-se+comigo." alt="Typing SVG" />
 </p>
