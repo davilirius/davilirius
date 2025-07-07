@@ -155,10 +155,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davilima&hide_border=true&ring=00ffff&fire=a259ff&currStreakNum=00ffff&sideNums=a259ff&sideLabels=c9d1d9&background=0d1117" width="46%"/>
 </p>
 
-<!-- ── NEON DIVIDER ── -->
-<p align="center">
-  <img src="https://64.media.tumblr.com/45837fce7b001cfc5ba0957895cefb88/f11ec5bea4363265-c8/s540x810/af42b33b3ac7c96ff17cc6ac07adf592c477e312.pnj" width="80%" />
-</p>
+
 
 <p align="center" style="color:#7d7d7d;font-family:'Courier New',monospace;">
 
