@@ -1,6 +1,6 @@
 <!-- Large animated banner centered -->
 <p align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/015/629/275/original/alexandra-vezhnovets-neon-room.gif?1549025062" alt="Animated Banner" width="900" style="border-radius: 12px; box-shadow: 0 4px 24px #00000088;"/>
+  <img src="https://images.steamusercontent.com/ugc/1732171141379858641/328DD512A2BB5F9ABF34677DD4C564F501205801/" width="900" style="border-radius: 12px; box-shadow: 0 4px 24px #00000088;"/>
 </p>
 
 <!-- Neon divider -->
