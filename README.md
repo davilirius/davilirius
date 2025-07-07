@@ -155,7 +155,7 @@
 </p>
 
 <p align="center" style="color:#7d7d7d;font-family:'Courier New',monospace;">
-  // graffitied in neon &lt;3
+
 </p>
 
 <!-- ═══════════════════════  BOTTOM WAVE  ═══════════════════════ -->
