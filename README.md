@@ -1,72 +1,48 @@
-<!-- ─────────────────────────  HEADER  ───────────────────────── -->
-<h1 align="center" style="font-weight:700; letter-spacing:2px;">
-  <span style="color:#00ffff;">DAVI</span> <span style="color:#a259ff;">LIMA</span>
+<!-- ─────────────────────────  COLOR BAR  ───────────────────────── -->
+<div align="center" style="height:6px;background:linear-gradient(90deg,#00ffff,#a259ff,#00ffff);border-radius:8px;"></div>
+
+<h1 align="center" style="margin:8px 0 0 0;font-size:3rem;letter-spacing:2px;">
+  <span style="color:#00ffff;">DAVI</span>
+  <span style="color:#a259ff;">LIMA</span>
 </h1>
-<p align="center" style="color:#a0a0a0;">
-  chaos-driven front-end developer • blue & purple enthusiast
+<p align="center" style="color:#8f8fff;font-style:italic;">
+  pixel-perfect interfaces • glitch aesthetics • coffee-powered code
 </p>
 
-<div align="center" style="height:2px; width:80%; background:linear-gradient(90deg,#00ffff,#a259ff,#00ffff); margin:24px 0;"></div>
+<!-- ─────────────────────────  COLOR BAR  ───────────────────────── -->
+<div align="center" style="height:6px;background:linear-gradient(90deg,#a259ff,#00ffff,#a259ff);border-radius:8px;margin-top:12px;"></div>
 
-<!-- ─────────────────────────  ABOUT  ───────────────────────── -->
-About
-<table>
-<tr>
-<td width="50%" valign="top">
+Vision & Rules of Play
+| Principle | Manifesto |
+|-----------|-----------|
+| Ship fast, refactor faster | Value momentum — revisit for polish after impact. |
+| Design first | Usability trumps trends; neon is seasoning, not the meal. |
+| Readable code > clever tricks | Future-Davi must thank Present-Davi. |
+| Automate the boring | CI, scripts, generators — time is for creativity. |
 
-What I do
-
-Build accessible, high-performance UIs
-Experiment with creative coding & shaders
-Prototype cross-platform apps using React Native
-Refactor legacy codebases into modern stacks
-
-</td>
-<td width="50%" valign="top">
-
-Why I code
-
-Love for vibrant palettes and glitch aesthetics
-Belief that good design solves before it shows
-Never-ending curiosity for new tech and patterns
-Commitment to open knowledge and clear docs
-
-</td>
-</tr>
-</table>
-
-<div align="center" style="height:2px; width:80%; background:linear-gradient(90deg,#00ffff,#a259ff,#00ffff); margin:24px 0;"></div>
-
-<!-- ─────────────────────────  TOOLBOX  ───────────────────────── -->
 Tech Arsenal
-| Web | Mobile | Data | Tooling |
-|-----|--------|------|---------|
-| TypeScript · React · Next.js | React Native · Expo | PostgreSQL · Prisma · GraphQL | Git · pnpm · TurboRepo |
-| Tailwind CSS · Sass | | tRPC · Zod | Docker · GitHub Actions |
+| Front-end | Mobile | Back-end & Data | DevOps / Tooling |
+|-----------|--------|-----------------|------------------|
+| TypeScript • React • Next.js • Tailwind | React Native • Expo | GraphQL • tRPC • Prisma • PostgreSQL | Docker • pnpm • TurboRepo • GitHub Actions |
+| CSS Modules • Framer Motion | Expo-Router | Zod Validation | Conventional Commits |
 
-<div align="center" style="height:2px; width:80%; background:linear-gradient(90deg,#00ffff,#a259ff,#00ffff); margin:24px 0;"></div>
+Experiments & Side-Quests
+| Year | Project | Stack | What I Broke Built |
+|------|---------|-------|---------------------|
+| 2025 | NeonCanvas | Next.js + WebGL | Procedural shader headers for marketing sites |
+| 2024 | GlyphForge | React Native + Expo | SVG icon editor with real-time mirroring |
+| 2023 | EchoPad | TS + Web Audio API | Collaborative lo-fi loop station in the browser |
 
-<!-- ─────────────────────────  PROJECTS  ───────────────────────── -->
-Selected Projects
-| Year | Project | Stack | Notes |
-|------|---------|-------|-------|
-| 2024 | ArcadeUI | React 18 · Vite | Component library inspired by retro neon HUDs |
-| 2023 | ZaunChat | Next.js · WebSockets | Real-time chat with glitch-animation theme |
-| 2022 | PulseRunner | Expo · React Native Reanimated | Mobile rhythm-game prototype with shader FX |
+Notes from Zaun
+“Good design solves the pain so clearly that code is just the multiplier.”
+— personal mantra (and mild nod to Piltover philosophy)
 
-<div align="center" style="height:2px; width:80%; background:linear-gradient(90deg,#00ffff,#a259ff,#00ffff); margin:24px 0;"></div>
-
-<!-- ─────────────────────────  CONTACT  ───────────────────────── -->
-Reach Me
-| Channel | Link |
-|---------|------|
-| Portfolio | https://davlima.dev/ |
+Coordinates
+| Where | Link |
+|-------|------|
+| Portfolio | https://davilima.dev/ |
 | LinkedIn | https://linkedin.com/in/davilima |
-| Email | hello@davlima.dev |
+| Email | hello@davilima.dev |
 
-<div align="center" style="height:2px; width:80%; background:linear-gradient(90deg,#00ffff,#a259ff,#00ffff); margin:24px 0;"></div>
-
-<p align="center" style="color:#6e6e6e; font-style:italic;">
-  “When the world’s on fire, make it glow.”<br/>
-  — inspired by <span style="color:#a259ff;">Jinx</span>
-</p>
+<!-- ─────────────────────────  COLOR BAR  ───────────────────────── -->
+<div align="center" style="height:6px;background:linear-gradient(90deg,#00ffff,#a259ff,#00ffff);border-radius:8px;margin-top:24px;"></div>
