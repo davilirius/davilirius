@@ -160,5 +160,5 @@
 
 <!-- ═══════════════════════  BOTTOM WAVE  ═══════════════════════ -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/55dc19ea797a5ca5f2195c4c2ce0272e/f11ec5bea4363265-d1/s540x810/2ca6f0c1ee3305786b9755079ee3ac153b513d45.pnj"/>
+  <img src="https://64.media.tumblr.com/67765b96c600a6a0c235d2de3d427645/f11ec5bea4363265-ac/s540x810/ad43a0fb4b340b2224f826599e0ef6379b76dee6.pnj"/>
 </p>
