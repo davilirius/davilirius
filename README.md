@@ -1,6 +1,6 @@
 <!-- Large animated banner centered -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/ca0393df9592ca979d58125e23b555a9/b9ac261a9ce95c53-f6/s640x960/19d2e65c27ef22a4162f79c14d6400dedd501343.gif" alt="Animated Banner" width="900"/>
+  <img src="https://64.media.tumblr.com/ca0393df9592ca979d58125e23b555a9/b9ac261a9ce95c53-f6/s640x960/19d2e65c27ef22a4162f79c14d6400dedd501343.gif" alt="Animated Banner" width="600"/>
 </p>
 
 <!-- Neon divider -->
