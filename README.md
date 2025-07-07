@@ -1,48 +1,67 @@
-<!-- ─────────────────────────  COLOR BAR  ───────────────────────── -->
-<div align="center" style="height:6px;background:linear-gradient(90deg,#00ffff,#a259ff,#00ffff);border-radius:8px;"></div>
-
-<h1 align="center" style="margin:8px 0 0 0;font-size:3rem;letter-spacing:2px;">
-  <span style="color:#00ffff;">DAVI</span>
-  <span style="color:#a259ff;">LIMA</span>
-</h1>
-<p align="center" style="color:#8f8fff;font-style:italic;">
-  pixel-perfect interfaces • glitch aesthetics • coffee-powered code
+<!-- Large animated banner centered -->
+<p align="center">
+  <img src="https://imgur.com/a/Cj4YIjt" alt="Animated Banner" width="900"/>
 </p>
 
-<!-- ─────────────────────────  COLOR BAR  ───────────────────────── -->
-<div align="center" style="height:6px;background:linear-gradient(90deg,#a259ff,#00ffff,#a259ff);border-radius:8px;margin-top:12px;"></div>
+<!-- Neon divider -->
+<p align="center">
+  <img src="https://64.media.tumblr.com/45837fce7b001cfc5ba0957895cefb88/f11ec5bea4363265-c8/s540x810/af42b33b3ac7c96ff17cc6ac07adf592c477e312.pnj" alt="Neon Divider" width="80%" />
+</p>
 
-Vision & Rules of Play
-| Principle | Manifesto |
-|-----------|-----------|
-| Ship fast, refactor faster | Value momentum — revisit for polish after impact. |
-| Design first | Usability trumps trends; neon is seasoning, not the meal. |
-| Readable code > clever tricks | Future-Davi must thank Present-Davi. |
-| Automate the boring | CI, scripts, generators — time is for creativity. |
+<h1 align="center">
+  <b>Hello, I'm [Your Name] 👋</b>
+</h1>
 
-Tech Arsenal
-| Front-end | Mobile | Back-end & Data | DevOps / Tooling |
-|-----------|--------|-----------------|------------------|
-| TypeScript • React • Next.js • Tailwind | React Native • Expo | GraphQL • tRPC • Prisma • PostgreSQL | Docker • pnpm • TurboRepo • GitHub Actions |
-| CSS Modules • Framer Motion | Expo-Router | Zod Validation | Conventional Commits |
+<p align="center">
+  <b>
+    Welcome to my GitHub profile!
+  </b>
+</p>
 
-Experiments & Side-Quests
-| Year | Project | Stack | What I Broke Built |
-|------|---------|-------|---------------------|
-| 2025 | NeonCanvas | Next.js + WebGL | Procedural shader headers for marketing sites |
-| 2024 | GlyphForge | React Native + Expo | SVG icon editor with real-time mirroring |
-| 2023 | EchoPad | TS + Web Audio API | Collaborative lo-fi loop station in the browser |
+<!-- Neon divider -->
+<p align="center">
+  <img src="https://64.media.tumblr.com/45837fce7b001cfc5ba0957895cefb88/f11ec5bea4363265-c8/s540x810/af42b33b3ac7c96ff17cc6ac07adf592c477e312.pnj" alt="Neon Divider" width="80%" />
+</p>
 
-Notes from Zaun
-“Good design solves the pain so clearly that code is just the multiplier.”
-— personal mantra (and mild nod to Piltover philosophy)
+## 🖤 About Me
 
-Coordinates
-| Where | Link |
-|-------|------|
-| Portfolio | https://davilima.dev/ |
-| LinkedIn | https://linkedin.com/in/davilima |
-| Email | hello@davilima.dev |
+- 🖥️ Developer passionate about technology and innovation  
+- 🎨 Minimalist, focused on elegant and functional design  
+- 🚀 Always learning and sharing knowledge  
+- 🤝 Open to collaborations and open source projects  
 
-<!-- ─────────────────────────  COLOR BAR  ───────────────────────── -->
-<div align="center" style="height:6px;background:linear-gradient(90deg,#00ffff,#a259ff,#00ffff);border-radius:8px;margin-top:24px;"></div>
+<!-- Neon divider -->
+<p align="center">
+  <img src="https://64.media.tumblr.com/45837fce7b001cfc5ba0957895cefb88/f11ec5bea4363265-c8/s540x810/af42b33b3ac7c96ff17cc6ac07adf592c477e312.pnj" alt="Neon Divider" width="80%" />
+</p>
+
+## ⚡ Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,git,github" />
+</div>
+
+<!-- Neon divider -->
+<p align="center">
+  <img src="https://64.media.tumblr.com/45837fce7b001cfc5ba0957895cefb88/f11ec5bea4363265-c8/s540x810/af42b33b3ac7c96ff17cc6ac07adf592c477e312.pnj" alt="Neon Divider" width="80%" />
+</p>
+
+## 📫 Contact
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/>
+  </a>
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=00FFFF"/>
+  </a>
+</div>
+
+<!-- Neon divider -->
+<p align="center">
+  <img src="https://64.media.tumblr.com/45837fce7b001cfc5ba0957895cefb88/f11ec5bea4363265-c8/s540x810/af42b33b3ac7c96ff17cc6ac07adf592c477e312.pnj" alt="Neon Divider" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting+my+profile!;Feel+free+to+connect+with+me." alt="Typing SVG" />
+</p>
