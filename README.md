@@ -130,7 +130,7 @@
 
 <p align="center">
   <a href="https://davilima.dev"><img src="https://img.shields.io/badge/PORTFOLIO-00ffff?style=for-the-badge&logo=About.me&logoColor=0d1117"/></a>&nbsp;
-  <a href="https://linkedin.com/in/davilima"><img src="https://img.shields.io/badge/LINKEDIN-a259ff?style=for-the-badge&logo=linkedin&logoColor=0d1117"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/davi-lima-98244a220/"https://img.shields.io/badge/LINKEDIN-a259ff?style=for-the-badge&logo=linkedin&logoColor=0d1117"/></a>&nbsp;
   <a href="mailto:hello@davilima.dev"><img src="https://img.shields.io/badge/EMAIL-00ffff?style=for-the-badge&logo=gmail&logoColor=0d1117"/></a>
 </p>
 
